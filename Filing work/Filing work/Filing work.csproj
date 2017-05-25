@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{546B5D91-9995-4188-8C36-A9CA3FE42E93}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>Filing work</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createfolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createfolder.Designer.cs">
+      <DependentUpon>createfolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createfile.Designer.cs">
+      <DependentUpon>createfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="copyfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="copyfile.Designer.cs">
+      <DependentUpon>copyfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deletefile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletefile.Designer.cs">
+      <DependentUpon>deletefile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="filesindirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="filesindirectory.Designer.cs">
+      <DependentUpon>filesindirectory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="filestreamreader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="filestreamreader.Designer.cs">
+      <DependentUpon>filestreamreader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="filestreamwriter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="filestreamwriter.Designer.cs">
+      <DependentUpon>filestreamwriter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="randomfileaccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randomfileaccess.Designer.cs">
+      <DependentUpon>randomfileaccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="streamwriter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="streamwriter.Designer.cs">
+      <DependentUpon>streamwriter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="streamreader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="streamreader.Designer.cs">
+      <DependentUpon>streamreader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="movefile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movefile.Designer.cs">
+      <DependentUpon>movefile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchfile.Designer.cs">
+      <DependentUpon>searchfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="copyfile.resx">
+      <DependentUpon>copyfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createfile.resx">
+      <DependentUpon>createfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createfolder.resx">
+      <DependentUpon>createfolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletefile.resx">
+      <DependentUpon>deletefile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="filesindirectory.resx">
+      <DependentUpon>filesindirectory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="filestreamreader.resx">
+      <DependentUpon>filestreamreader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="filestreamwriter.resx">
+      <DependentUpon>filestreamwriter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="randomfileaccess.resx">
+      <DependentUpon>randomfileaccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="streamreader.resx">
+      <DependentUpon>streamreader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movefile.resx">
+      <DependentUpon>movefile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchfile.resx">
+      <DependentUpon>searchfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="streamwriter.resx">
+      <DependentUpon>streamwriter.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1495659157_minus.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1495659121_arrow-maximise-outline.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1495659293_39-Minimize.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1495659077_cross-24.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1495659293_39-Minimize1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

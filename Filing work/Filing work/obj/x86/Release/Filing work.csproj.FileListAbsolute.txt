@@ -1,0 +1,10 @@
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.copyfile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.createfile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.createfolder.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.deletefile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.filesindirectory.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.movefile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.searchfile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Release\Filing work.csproj.GenerateResource.Cache

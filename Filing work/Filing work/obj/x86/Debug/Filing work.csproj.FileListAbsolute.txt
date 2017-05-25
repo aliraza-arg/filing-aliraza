@@ -1,0 +1,21 @@
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\bin\Debug\Filing work.exe
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\bin\Debug\Filing work.pdb
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.createfolder.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\Filing work.exe
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\Filing work.pdb
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.searchfile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.createfile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.copyfile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.deletefile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.filesindirectory.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.movefile.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.streamreader.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.streamwriter.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.filestreamreader.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.filestreamwriter.resources
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\UNI LECTURES\THIRD SEMESTER\visual programming\programs\Filing work\Filing work\obj\x86\Debug\WindowsFormsApplication1.randomfileaccess.resources
